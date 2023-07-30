@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Poppins:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Poppins:wght@400;600;700&family=Source+Code+Pro:wght@300&display=swap');
+.contactform{
+    font-family: 'Fira Sans', sans-serif;
+    padding: 0 34px;
+    padding-top: 95px;
+
+}
+.contactform h1{
+    font-family: 'Source Code Pro', monospace;
+}
+.form-control{
+    border-radius: 5px;
+    width: 25vw;
+}
+#emailHelp{
+    font-size: 9px;
+    color: cadetblue;
+    margin: 4px 2px;
+}
+ .form-label{
+    display: flex;
+    padding: 8px 0px;
+}
+.form-check-input{
+    margin: 12px 2px;
+}
+.btnsm{
+    border-radius: 12px;
+    padding: 5px 19px;
+    color: white;
+    background-color: dodgerblue;
+    font-weight: bold;
+    font-size: 13px;
+    margin: 2px 3px;
+    cursor: pointer;
+}
+.btnsm:hover{
+    background-color: white;
+    color: dodgerblue;
+}
